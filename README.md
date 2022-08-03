@@ -1,8 +1,4 @@
-# Level 4 Task 16 Deployed -Advanced JavaScript
-
-## Deployed
-
-
+# Level 4 Task 16 -Advanced JavaScript
 
 ## Task
 
